@@ -1,8 +1,6 @@
 #include "Vector3.h"
 #include <stdexcept>
 
-using namespace std;
-
 namespace Vector3
 {
 	float Vector3Maths::Add(float x, float y, float z)
