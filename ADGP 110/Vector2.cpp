@@ -13,7 +13,7 @@ namespace Vector2
 		return x - y;
 	}
 
-	float Vector2Maths::Multiplication(float x, float y)
+	float Vector2Maths::Multiply(float x, float y)
 	{
 		return x * y;
 	}

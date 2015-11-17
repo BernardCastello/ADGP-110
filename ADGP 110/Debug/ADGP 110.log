@@ -1,0 +1,16 @@
+﻿Build started 11/17/2015 4:46:30 PM.
+     1>Project "C:\Users\bernard.castello\Documents\Visual Studio 2015\Projects\ADGP 110\ADGP 110\ADGP 110.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"Debug\\" /Fd"Debug\ADGP 110.pdb" /Gd /TP /analyze- /errorReport:prompt Vector2.cpp Vector3.cpp
+         Vector3.cpp
+         Vector2.cpp
+         Generating Code...
+       Lib:
+         C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\Lib.exe /OUT:"C:\Users\bernard.castello\Documents\Visual Studio 2015\Projects\ADGP 110\Debug\ADGP 110.lib" /NOLOGO Debug\Vector2.obj
+         Debug\Vector3.obj
+         ADGP 110.vcxproj -> C:\Users\bernard.castello\Documents\Visual Studio 2015\Projects\ADGP 110\Debug\ADGP 110.lib
+     1>Done Building Project "C:\Users\bernard.castello\Documents\Visual Studio 2015\Projects\ADGP 110\ADGP 110\ADGP 110.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:01.07
